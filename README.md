@@ -29,12 +29,22 @@
 
 ### 🌍 Languages  
 <p align="center">
-  <img src="https://img.shields.io/badge/🇪🇸 Spanish-Nativo-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🇬🇧 English-C2-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🇧🇷 Portuguese-Fluido-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🇮🇹 Italian-Básico-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🇫🇷 French-Básico-orange?style=for-the-badge" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg" width="20"/> 
+  <img src="https://img.shields.io/badge/Spanish-Nativo-green?style=for-the-badge" />
+  
+  <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" width="20"/> 
+  <img src="https://img.shields.io/badge/English-C2-blue?style=for-the-badge" />
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" width="20"/> 
+  <img src="https://img.shields.io/badge/Portuguese-Fluido-red?style=for-the-badge" />
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" width="20"/> 
+  <img src="https://img.shields.io/badge/Italian-Básico-yellow?style=for-the-badge" />
+  
+  <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" width="20"/> 
+  <img src="https://img.shields.io/badge/French-Básico-orange?style=for-the-badge" />
 </p>
+
 
 
 
