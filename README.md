@@ -8,6 +8,7 @@
 - ☎️ +598 91 991 598
 - 🧑‍🎓 I'm currently studying software engineering
 - 🤓 Always learning new things.
+- 📍Uruguay 🇺🇾
 - 🪖 Currently working in the army
 - 🤔 I’m currently open for a new job opportunity, this is MY RESUME.   [![Download CV](https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobe)](https://drive.google.com/file/d/1rctZG9YaghcUvrm7_KtDBzS5_R1NcXXD/view?usp=drive_link)
 
@@ -26,7 +27,14 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-
+### 🌍 Languages  
+<p align="center">
+  <img src="https://img.shields.io/badge/Español-Nativo-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Inglés-C2-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Portugués-Fluido-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Italiano-Básico-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Francés-Básico-orange?style=for-the-badge" />
+</p>
 
 ## Connect with me 🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-morat-39664811a/)
