@@ -40,10 +40,12 @@
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg" width="20"/> 
   <img src="https://img.shields.io/badge/Italian-Básico-yellow?style=for-the-badge" />
-  
+
+  <br/>  
   <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" width="20"/> 
   <img src="https://img.shields.io/badge/French-Básico-orange?style=for-the-badge" />
 </p>
+
 
 
 
