@@ -7,7 +7,7 @@
 - 📫 How to reach me: bmorat995@gmail.com
 - 🧑‍🎓 I'm currently studying software engineering
 - 🤓 Always learning new things.
-- 🤔 I’m currently open for a new job opportunity, this is MY RESUME. --> [![Download CV](https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobe)](https://drive.google.com/file/d/1rctZG9YaghcUvrm7_KtDBzS5_R1NcXXD/view?usp=drive_link)
+- 🤔 I’m currently open for a new job opportunity, this is MY RESUME.   [![Download CV](https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobe)](https://drive.google.com/file/d/1rctZG9YaghcUvrm7_KtDBzS5_R1NcXXD/view?usp=drive_link)
 
 
 
