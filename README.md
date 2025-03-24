@@ -4,19 +4,14 @@
   <img src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300">
 </div>
 
+- 📫 How to reach me: bmorat995@gmail.com
+- 🧑‍🎓 I'm currently studying software engineering
+- 🤓 Always learning new things.
+- 🤔 I’m currently open for a new job opportunity, this is MY RESUME. --> [![Download CV](https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobe)](https://drive.google.com/file/d/1rctZG9YaghcUvrm7_KtDBzS5_R1NcXXD/view?usp=drive_link)
 
 
-<!--
-**Bmorat/Bmorat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Connect with me 🤝
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-morat-39664811a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bmorat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
